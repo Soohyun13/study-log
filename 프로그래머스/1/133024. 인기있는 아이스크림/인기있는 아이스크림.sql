@@ -1,0 +1,5 @@
+-- 코드를 입력하세요
+# 맛 / 주문량내림 출하번호오름
+SELECT FLAVOR
+FROM FIRST_HALF
+ORDER BY TOTAL_ORDER DESC, SHIPMENT_ID;
