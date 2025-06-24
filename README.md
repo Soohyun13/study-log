@@ -1,2 +1,13 @@
 # coding_test_practice
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+프로그래머스의 **Python**, **SQL**, **자료구조 및 알고리즘** Lv.0 ~ Lv.3 문제 풀이를 기록한 저장소입니다.
+데이터 분석가에게 필요한 기본적인 툴 사용 역량 및 코딩 역량 향상을 목표로 꾸준히 풀이하고 있습니다.
+
+## 📂 폴더 구조
+```
+프로그래머스/
+├── 0/   # Lv.0 문제
+├── 1/   # Lv.1 문제
+├── 2/   # Lv.2 문제
+└── 3/   # Lv.3 문제
+```
+각 폴더 안에는 해당 레벨의 문제별 Python, SQL 또는 알고리즘 풀이 코드가 포함되어 있습니다.
