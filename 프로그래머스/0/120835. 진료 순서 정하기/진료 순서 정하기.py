@@ -1,4 +1,6 @@
 def solution(emergency):
-    sorted_emg = sorted(emergency, reverse=True)
-    ranks = {num: i+1 for i, num in enumerate(sorted_emg)}
-    return [ranks[num] for num in emergency]
+    sorted_emergency = sorted(emergency, reverse=True)
+    answer = []
+    for i in emergency:
+        answer.append(sorted_emergency.index(i)+1)
+    return answer
